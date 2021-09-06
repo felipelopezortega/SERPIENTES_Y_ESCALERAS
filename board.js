@@ -18,10 +18,8 @@ while(player1.getPosition()<100 && player2.getPosition()<100){
 
         console.log("El ganador es el Jugador 2");
 
-    }else if(player1.getPosition()>99 && player2.getPosition()>99){
-
-        console.log("Es un empate");
     }
+    
 }
 
 
